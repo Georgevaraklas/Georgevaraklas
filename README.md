@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Georgevaraklas
-- 👀 I’m interested in Minecraft modding
-- 🌱 I’m currently learning Minecraft modding 
+- 👀 I’m interested in app developing
+- 🌱 I’m currently learning about you
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
